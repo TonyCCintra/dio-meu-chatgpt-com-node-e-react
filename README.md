@@ -1,6 +1,6 @@
 # Clone Simples do ChatGPT (Full-Stack)
 
-Este é um projeto de um clone simples da interface do ChatGPT, construído com um frontend em React (usando Vite) e um backend em Node.js com Express. A intenção original é integrar com a API da OpenAI para fornecer respostas de IA.
+Protótipo funcional de um sistema de chat inspirado no ChatGPT, implementado com uma arquitetura full-stack. O frontend foi desenvolvido utilizando React e Vite, proporcionando uma interface de usuário reativa. O backend, construído com Node.js e Express.js, gerencia as requisições e foi projetado para se comunicar com a API da OpenAI. Devido a limitações de cota (Erro 429) encontradas com a API da OpenAI durante o período de desenvolvimento, um mecanismo de mock foi implementado no servidor para simular as interações com a IA, assegurando a demonstração da funcionalidade de ponta a ponta da aplicação.
 
 ## Status Atual
 
